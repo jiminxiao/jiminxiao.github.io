@@ -2568,11 +2568,8 @@ input, select, textarea {
 		margin-bottom: 0.5em;
 	}
 
-	.box.highlight .google_scholar{
-		height: 0.8em;
-	}
-	.box.highlight a{
-		border-bottom: none;
+	.box.highlight .main-img{
+		height: 11.5em;
 	}
 
 	.box.post {
