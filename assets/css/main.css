@@ -2858,6 +2858,11 @@ input, select, textarea {
 		text-align: left;
 	}
 
+	.intro-card p{
+		margin-bottom:0;
+	}
+
+
 /* Footer */
 
 	#footer {
@@ -3083,10 +3088,9 @@ input, select, textarea {
 					top: 0.25em;
 				}
 
-			.box.post .inner {
+			.box.post .inner, .box.post .inner p {
 				text-align: center;
 			}
-
 			.box.post .image {
 				width: 20%;
 			}
