@@ -2596,10 +2596,13 @@ input, select, textarea {
 		.box.post .inner{
 			text-align: center;
 		}
-			.box.post .inner h3{
-				letter-spacing:0;
-				margin-bottom: 0;
-			}
+		.box.post .inner p{
+			text-align: center;
+		}
+		.box.post .inner h3{
+			letter-spacing:0;
+			margin-bottom: 0;
+		}
 
 	#logo {
 		position: absolute;
