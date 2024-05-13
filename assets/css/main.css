@@ -2565,6 +2565,7 @@ input, select, textarea {
 
 	.box.highlight h3{
 		text-align: left;
+		margin-bottom: 0.5em;
 	}
 
 	.box.post {
